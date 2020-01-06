@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa:400,700|Ibarra+Real+Nova:400,700,700i|Righteous|Roboto:400,900,900i&display=swap');
+body {
+  background-color: #25004d;
+  color: #f2e6ff;
+  font-family: "comfortaa","cursive";
+}
+
+h1 {
+  text-align: center;
+  letter-spacing: 2px;
+  font-weight: bold;
+  font-size: 60px;
+}
+
+h2 {
+  text-align: center;
+  letter-spacing: 1px;
+  font-weight: lighter;
+  font-size: 20x;
+}
+
+#first-list {
+  background-color: #e6f2ff;
+  color: #25004d;
+  border: 1px solid yellow;
+  padding: 2px 1px;
+  margin-bottom: 5px;
+}
+
+#second-list {
+  background-color: #b3d7ff;
+  color: #25004d;
+  border: 1px solid yellow;
+  padding: 2px 1px;
+  margin-bottom: 5px;
+}
+
+#third-list {
+  background-color: #ccffff;
+  color: #25004d;
+  border: 1px solid yellow;
+  padding: 2px 1px;
+  margin-bottom: 20px;
+}
